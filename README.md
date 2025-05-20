@@ -1,6 +1,10 @@
 
 # 📚 Library Management System CSDC FINALS
 
+
+## SIGMA SIGMA BOY!!!
+# SIGMA BOY
+
 A lightweight console-based library management system written in C++ that handles book and user management with file persistence.
 
 ## ✨ Features
